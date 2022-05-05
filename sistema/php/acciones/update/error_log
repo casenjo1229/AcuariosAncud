@@ -1,0 +1,7 @@
+[01-Jul-2020 22:04:08 America/Santiago] PHP Notice:  Undefined index: categoria in /home/acuarios/public_html/dashboard/php/acciones/update/update_producto.php on line 21
+[03-Jul-2020 12:07:01 America/Santiago] PHP Notice:  Undefined index: ubicacion in /home/acuarios/public_html/dashboard/php/acciones/update/update_producto.php on line 52
+[17-Sep-2020 17:22:49 America/Santiago] PHP Notice:  Undefined index: area in /home/acuarios/public_html/dashboard/php/acciones/update/update_usuario.php on line 9
+[22-Sep-2020 18:43:09 America/Santiago] PHP Notice:  Undefined index: categoria in /home/acuarios/public_html/dashboard/php/acciones/update/update_producto.php on line 21
+[22-Sep-2020 18:43:09 America/Santiago] PHP Notice:  Undefined index: ubicacion in /home/acuarios/public_html/dashboard/php/acciones/update/update_producto.php on line 21
+[22-Sep-2020 18:43:25 America/Santiago] PHP Notice:  Undefined index: categoria in /home/acuarios/public_html/dashboard/php/acciones/update/update_producto.php on line 21
+[22-Sep-2020 18:43:25 America/Santiago] PHP Notice:  Undefined index: ubicacion in /home/acuarios/public_html/dashboard/php/acciones/update/update_producto.php on line 21
